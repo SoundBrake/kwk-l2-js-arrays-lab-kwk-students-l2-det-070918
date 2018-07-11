@@ -19,7 +19,7 @@ function destructivelyRemoveFirstDriver(){
 }
 
 function appendDriver(name){
-  var newArr = drivers
+  var newArr = ["Mo"]
   newArr.push(name)
   return newArr
 }
